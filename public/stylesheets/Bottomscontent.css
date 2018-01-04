@@ -1,0 +1,400 @@
+@import url('https://fonts.googleapis.com/css?family=Itim|Spectral+SC|Inconsolata');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+#content{
+    position:relative;
+    left:0;
+    top:0;
+    margin:0;
+    padding:0;
+
+}
+
+#image{
+    top:0;
+
+
+    height:350px;
+
+
+    width:80%;
+
+
+    margin-left:210px;
+    right:4.4%;
+
+}
+#comfort{
+    position:relative;
+    font-size:20px;
+    font-family: "Spectral SC";
+    margin-top:20px;
+    margin-left:210px;
+
+}
+
+#opisanie{
+    position:relative;
+    font-size:15px;
+    font-family: "Spectral SC";
+    margin-top:40px;
+    margin-left:600px;
+
+}
+#widepants{
+
+    width:80%;
+    height:800px;
+    margin-top:200px;
+    margin-left:210px;
+    right:4.4%;
+    background:#E6E6E6  no-repeat;
+}
+#wide{
+    position:relative;
+    width:90%;
+    height:420px;
+    top:30px;
+    left:5%;
+    box-shadow: inset 0 0 6px;
+
+}
+#wide1{
+    position:relative;
+    left:5%;
+    height:250px;
+    width:200px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+#wide1p{
+    position:relative;
+    left:6%;
+    font-size:15px;
+    font-family: "Spectral SC";
+    top:9%;
+
+}
+
+#wide2{
+    position:relative;
+    left:20%;
+    height:250px;
+    width:210px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+#wide2p{
+    position:relative;
+    left:42%;
+    font-size:15px;
+    font-family: "Spectral SC";
+    top:7%;
+}
+#wide3{
+    position:relative;
+    left:37%;
+    height:250px;
+    width:210px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+#wide3p{
+    position:relative;
+    left:79%;
+    font-size:15px;
+    font-family: "Spectral SC";
+    top:4%;
+}
+
+#containerr{
+    top:48%;
+    left:15.5%;
+    position:absolute;
+    width:500px;
+    height:730px;
+    background:#E6E6E6  no-repeat;
+
+
+
+
+}
+
+#kwide{
+    position:relative;
+    width:80%;
+    height:80%;
+    left:10%;
+    top:9%;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+
+}
+
+
+#widepants1{
+    top:48%;
+    right:4.4%;
+    position:absolute;
+    width:500px;
+    height:730px;
+
+
+}
+
+
+
+
+#smartpants{
+
+    width:80%;
+    height:800px;
+    margin-top:1000px;
+    margin-left:210px;
+    right:4.4%;
+    background:#E6E6E6  no-repeat;
+}
+#smartstyle{
+    position:relative;
+    width:90%;
+    height:420px;
+    top:30px;
+    left:5%;
+    box-shadow: inset 0 0 6px;
+
+}
+#smart1{
+    position:relative;
+    left:5%;
+    height:245px;
+    width:220px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+#smart2{
+    position:relative;
+    left:20%;
+    height:245px;
+    width:210px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+#smart3{
+    position:relative;
+    left:35.5%;
+    height:245px;
+    width:210px;
+    top:60px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+#smartoffice{
+    margin-top:5%;
+    right:4.4%;
+    position:absolute;
+    width:530px;
+    height:730px;
+}
+
+#containerr1{
+    margin-top:5%;
+    left:15.5%;
+    position:absolute;
+    width:500px;
+    height:730px;
+    background:#E6E6E6  no-repeat;
+
+
+
+
+}
+
+#ksmart{
+    position:relative;
+    width:80%;
+    height:60%;
+    left:10%;
+    top:20%;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+}
+
+#zastavka{
+    position:absolute;
+    top:128%;
+    right: 4.4%;
+    height:650px;
+    width:1080px;
+
+
+}
+
+
+#hr1{
+    position:absolute;
+    top:155%;
+    width:1080px;
+    height:0.4px;
+    right:4.4%;
+
+color: #D3D3D3;
+
+
+
+
+
+}
+
+#hr2{
+    position:absolute;
+    top:160%;
+    width:1080px;
+    height:0.4px;
+    right:4.4%;
+
+
+
+}
+
+#details{
+    position:absolute;
+    left:20%;
+    font-size:15px;
+    font-family: "Spectral SC";
+    top:155%;
+    color: dimgray;
+}
+#bot{
+    position:absolute;
+    right:4.5%;
+    font-size:15px;
+    font-family: "Spectral SC";
+    top:157%;
+    color: dimgray;
+}
+
+#widepants2{
+    position:absolute;
+    top: 162%;
+    right:4.4%;
+    width:600px;
+    height:500px;
+}
+#filos{
+    position:absolute;
+    font-size:20px;
+    font-family: "Spectral SC";
+    color: dimgray;
+    left:16%;
+    top:164%;
+}
+
+#author{
+    position:absolute;
+    font-size:20px;
+    font-family: "Spectral SC";
+    color: dimgray;
+    top:169%;
+    left:22%;
+}
+
+@-moz-document url-prefix(){
+
+    #wide3{
+
+        left:33.5%;
+
+    }
+    #smart3{
+
+        left:31.5%;
+
+    }
+
+    #widepants1{
+
+        right:3.6%;
+        width:470px;
+        height:700px;
+
+    }
+
+
+    #containerr{
+
+        left:16.6%;
+
+        width:470px;
+        height:700px;
+
+
+
+
+    }
+
+
+    #smartoffice{
+
+        right:3.6%;
+        position:absolute;
+        width:470px;
+        height:700px;
+
+    }
+
+    #containerr1{
+
+        left:16.6%;
+        width:470px;
+        height:700px;
+
+
+
+
+
+    }
+
+    #zastavka{
+
+        right:3.6%;
+
+        height:590px;
+        width:1020px;
+
+
+    }
+
+
+    #hr1{
+
+
+        width:1015px;
+
+        right:4.4%;
+
+
+
+
+
+
+
+    }
+
+    #hr2{
+
+
+        width:1015px;
+
+        right:4.4%;
+
+
+
+    }
+
+}

@@ -1,0 +1,111 @@
+@media (max-width: 800px) {
+
+
+
+    .overlay.open{
+        zoom:0.6;
+        top: 20%;
+        left: 1.5%;
+
+    }
+
+
+
+
+    #norm1,#norm1coll, #norm2,#norm2coll, #norm3,#norm3coll, #norm4,#norm4coll,
+    #norm5,#norm5coll, #norm6,#norm6coll,#vce{
+
+        max-width:100%;
+        min-width:100%;
+        height:auto;
+        margin-left: 0px;
+        margin-right: 0px;
+        left:0;
+        right:0;
+    }
+
+
+    #norm2 {
+        top: 370px;
+
+
+
+    }
+
+    #norm2coll {
+
+        top: 370px;
+
+
+    }
+
+    #norm3 {
+       top:110px;
+
+
+
+    }
+
+    #norm3coll {
+        top:110px;
+
+
+
+
+    }
+
+    #norm4 {
+        top: 520px;
+
+
+    }
+
+    #norm4coll {
+        top: 520px;
+
+
+    }
+
+    #norm5 {
+        top: 280px;
+
+
+    }
+
+    #norm5coll {
+        top: 280px;
+
+    }
+
+    #norm6 {
+        top: 650px;
+
+
+    }
+
+    #norm6coll {
+        top: 650px;
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
