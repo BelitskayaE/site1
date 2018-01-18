@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase:700|Mate+SC');
+
+nav {
+    position: absolute;
+    top: 122px;
+    left: 181px;
+    width: 260px;
+
+    margin: -78px 0 100px -180px;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    display: block;
+    background: #848484;
+    opacity:0.7;
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+    -ms-transition: 0.2s linear;
+    -o-transition: 0.2s linear;
+    transition: 0.2s linear;
+}
+nav ul li a:hover {
+    background: #120A2A;
+}
+nav ul li a .fa {
+    width: 16px;
+    text-align: center;
+    margin-right: 5px;
+}
+nav ul li a .badge {
+    display:block;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.2);
+
+    color: #fff;
+    font-size: 12px;
+    font-weight: 800;
+    width:14px;
+    height:14px;
+   left:10px;
+    top:2px;
+    align-items:center;
+}
+
+
+nav ul li a .badg {
+    display:block;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.2);
+
+    color: #fff;
+    font-size: 12px;
+    font-weight: 800;
+    width:14px;
+    height:14px;
+    left:16px;
+    top:2px;
+    align-items:center;
+
+}
+
+
+
+
+
+
+
+nav ul li ul li a {
+    background: #A4A4A4;
+    border-left: 4px solid transparent;
+    padding: 10px 20px;
+}
+nav ul li ul li a:hover {
+    background: #120A2A;
+    opacity:0.6;
+    border-left: 4px solid  #000;
+}
+
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
